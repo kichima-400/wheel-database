@@ -16,7 +16,7 @@
 
 | ブランド | 製品名 | サイズ | インセット | 色 | 重量(kg) | 重量出典 | 定価(円/本) | 販売価格(円/本) | メーカーURL | 販売URL |
 |--------|-------|-------|----------|---|---------|--------|-----------|--------------|------------|-------|
-| ADVAN  | RG-4　| 17×7.0J | ET42 | ホワイト | — | — | 55,000 |  |https://yokohamawheel.jp/brand/advan_rg-4/index_jpn.html| — |
+| ADVAN  | RG-4　| 17×7.0J | ET42 | ホワイト | — | — | 55,000 | 37,950 |https://yokohamawheel.jp/brand/advan_rg-4/index_jpn.html| — |
 | ADVAN  | RC3　 | 17×7.0J | ET43 | ホワイト/ゴールド | — | — | 51,150 |  |https://yokohamawheel.jp/brand/advan_rc3/index_jpn.html| — |
 
 ---
