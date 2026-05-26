@@ -10,7 +10,7 @@
 
 | ブランド | 製品名 | サイズ | インセット | 色 | 重量(kg) | 定価(円/本) | 販売価格(円/本) | メーカーURL | 販売URL |
 |---------|--------|-------|-----------|----|----------|------------|----------------|------------|-------|
-| ENKEI   | RPF1  | 16×7.0J | ET35   | Silver | 6.5Kg | 51,150 | -- |https://www.enkei.co.jp/product/wheels/Racing/RPF1/ | — |
+| ENKEI   | RPF1  | 16×7.0J | ET43   | Silver | 6.5Kg | 51,150 | -- |https://www.enkei.co.jp/product/wheels/Racing/RPF1/ | — |
 
 ---
 
