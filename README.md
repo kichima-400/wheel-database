@@ -10,7 +10,7 @@
 
 | ブランド | 製品名 | サイズ | インセット | 色 | 重量(kg) | 定価(円/本) | 販売価格(円/本) | メーカーURL | 販売URL |
 |---------|--------|-------|-----------|----|----------|------------|----------------|------------|-------|
-| ADVAN   | RZ-2   | 16×6.5J | ET35/38 | 青/BRONZ |  | 48,400 | -- | https://yokohamawheel.jp/brand/advan_rz2/index_jpn.html | — |
+| ADVAN   | RZ-2   | 16×6.5J | ET35/38 | 青/BRONZ |  | 48,400 | 38,880 | https://yokohamawheel.jp/brand/advan_rz2/index_jpn.html | https://item.rakuten.co.jp/tg-tokyo/10001618/ |
 | ENKEI   | RPF1  | 16×7.0J | ET43   | Silver | 6.5Kg | 51,150 | 30,000 |https://www.enkei.co.jp/product/wheels/Racing/RPF1/ | https://store.shopping.yahoo.co.jp/cp-webshop/rpf1-1670434114sx4.html?sc_i=shopping-pc-web-category-storeitm-rsltlst-title&ea= |
 | RAYS　 |TE37 SONIC| 16×6.5J | ET38  | 黒 |  | 64,900 | -- |https://www.rayswheels.co.jp/products/brand/detail/126 | — |
 
