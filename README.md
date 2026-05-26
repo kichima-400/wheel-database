@@ -11,7 +11,7 @@
 | ブランド | 製品名 | サイズ | インセット | 色 | 重量(kg) | 定価(円/本) | 販売価格(円/本) | メーカーURL | 販売URL |
 |---------|--------|-------|-----------|----|----------|------------|----------------|------------|-------|
 | ENKEI   | RPF1  | 16×7.0J | ET43   | Silver | 6.5Kg | 51,150 | -- |https://www.enkei.co.jp/product/wheels/Racing/RPF1/ | — |
-| RAYS　 TE37 SONIC| 16×6.5J | ET38  | 黒 | 6.5Kg | 64,900 | -- |https://www.rayswheels.co.jp/products/brand/detail/126 | — |
+| RAYS　 |TE37 SONIC| 16×6.5J | ET38  | 黒 | 6.5Kg | 64,900 | -- |https://www.rayswheels.co.jp/products/brand/detail/126 | — |
 
 ---
 
